@@ -83,7 +83,7 @@ H3 {
  font-family: arial, helvetica, sans-serif;
  padding : 5px;
 /* background-color: #ffffff;*/
- font-weight: bold;
+ font-weight: normal;
  line-height: 0.7cm;
 
 }
@@ -92,10 +92,10 @@ H3 {
 ul li {
 /*     background: #ffffff; */
     list-style-type: disc;
-    font-size: 14pt;
+    font-size: 13pt;
     margin-left: 0px;
     margin-bottom: 10px;
-    line-height: 25px; 
+    line-height: 20px; 
     color: #000000;     
 }
 
